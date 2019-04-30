@@ -1,0 +1,13 @@
+[package]
+name = "set-error"
+version = "0.0.1"
+authors = ["Ethan Brierley <ethanboxx@gmail.com>"]
+license = "MIT/Apache-2.0"
+readme = "README.md"
+description = """
+set-error
+"""
+documentation = "https://docs.rs/set-error/"
+homepage = "http://efunb.com/"
+repository = "https://gitlab.com/efunb/set-error"
+edition = "2018"
