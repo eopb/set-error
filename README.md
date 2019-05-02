@@ -10,3 +10,5 @@ File::open("config.yaml")
     .read_to_string(&mut contents)
     .set_error("Failed to read file content.")?;
 ```
+
+[docs](https://docs.rs/set-error/)
