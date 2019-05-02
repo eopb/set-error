@@ -8,7 +8,7 @@ A very simple trait that overwrites errors with `Strings` for `Result`s and `Opt
 [![Latest Docs](https://docs.rs/set-error/badge.svg)](https://docs.rs/set-error/)
 [![downloads-badge](https://img.shields.io/crates/d/set-error.svg)](https://crates.io/crates/set-error)
 
-When used with the `?` operator it makes a nice pattern.
+When used with the `?` operator it makes a nice pattern. [Documentation](https://docs.rs/set-error/)
 
 ```rust
 File::open("config.yaml")
